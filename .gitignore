@@ -1,0 +1,8 @@
+build/
+__pycache__/
+*.pyc
+.DS_Store
+results/synth/*.log
+report/*.aux
+report/*.log
+report/*.out
