@@ -1,0 +1,33 @@
+
+19. Printing statistics.
+
+=== modharvard_top ===
+
+        +----------Local Count, excluding submodules.
+        | 
+     2408 wires
+     7890 wire bits
+       77 public wires
+      899 public wire bits
+        5 ports
+       36 port bits
+     3034 cells
+       14   $scopeinfo
+        1   BUFG
+       72   CARRY4
+      688   FDRE
+        2   IBUF
+       24   INV
+      337   LUT2
+      295   LUT3
+      238   LUT4
+      621   LUT5
+      545   LUT6
+       10   MUXF7
+        4   MUXF8
+       34   OBUF
+       12   RAM32M
+      128   RAM64M
+        1   RAMB18E1
+        8   RAMB36E1
+
