@@ -7,7 +7,7 @@ A five-stage pipelined RV32I processor in Verilog, attached unchanged to four me
 | | |
 |---|---|
 | Report (IEEE format) | [report/Project9_IEEE_Report.pdf](report/Project9_IEEE_Report.pdf) |
-| Prototype video | **ADD VIDEO LINK HERE** |
+| Prototype video (4 min) | [video/Project9_Demo.mp4](video/Project9_Demo.mp4) |
 | All measured numbers | [results/summary.md](results/summary.md) |
 
 ## Team
@@ -72,6 +72,7 @@ programs/   RV32I assembly: 6 benchmarks and 4 directed tests
 scripts/    assembler, reference simulator, random programs, verify / experiments / plots / synthesis
 results/    measured data (CSV + summary.md), pipeline traces, VCD waveforms, synthesis reports
 report/     IEEE report: LaTeX source, figures, PDF
+video/      prototype demonstration video
 ```
 
 | File | What it is |
